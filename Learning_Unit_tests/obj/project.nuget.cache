@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UwBefZSVREslaHp6k3T8xvotZg5uG4/0O8VVhNXirSOKJEZwrVls5QNIawNzhrbOrNq+ndfE3zt6E8z1A+Du7A==",
+  "dgSpecHash": "2v2dmhzYpzfTEqRy3bTO83xatFoxO6Q4lP0BaNU1ycp3LGBbC+xmBxo+evYWuR9HR2G/fuK5FBwq2sVgxRK7iw==",
   "success": true,
   "projectFilePath": "C:\\MEREO\\C#\\Testes Unitários em C#\\TestesUnitários\\Learning_Unit_tests\\Learning_Unit_tests.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     "C:\\Users\\edson.junior\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
     "C:\\Users\\edson.junior\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\edson.junior\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
-    "C:\\Users\\edson.junior\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\edson.junior\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
     "C:\\Users\\edson.junior\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
