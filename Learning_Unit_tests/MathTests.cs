@@ -42,5 +42,23 @@ namespace Learning_Unit_tests
             Assert.That(result, Is.EqualTo(expectedResult));
 
         }
+
+        [Test]
+        public void GetOddNumbers_LimitIsGreaterThanZero_ReturnOddNumbersUpToLimit()
+        {
+            var result = _math.GetOddNembers(5);
+
+            // Essas 3 Assertivas será subtituída por EquivalentTo
+            //Assert.That(result, Does.Contain(1));
+            //Assert.That(result, Does.Contain(3));
+            //Assert.That(result, Does.Contain(5));
+            Assert.That(result, Is.EquivalentTo(new[] { 1, 3, 5 }));
+
+            //Verifica se o resultado está em ordenação crescente
+            Assert.That(result, Is.Ordered);
+
+            //Verifica se no array não possui numeração duplicada
+            Assert.That(result, Is.Unique);
+        }
     }
 }
