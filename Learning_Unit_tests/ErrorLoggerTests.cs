@@ -29,5 +29,22 @@ namespace Learning_Unit_tests
             //Para métodos que lançam exception utilizamos os Delegate nas Asserts
             Assert.That(() => _errorLogger.Log(error), Throws.ArgumentNullException);
         }
+
+        [Test]
+        public void Log_ValidError_RaiseErrorLoggedEvent()
+        {
+            /* testando essa parte do código: ErrorLogged?.Invoke(this, Guid.NewGuid()); */
+            var id = Guid.Empty;
+            /* Sobreescrevendo o envento gerado pelo método antes da Act
+             no evento receberemos um valor. Nesse caso, estamos
+             recebendo um novo Guid
+             */
+            _errorLogger.ErrorLogged += (sender, e) => { id = e; };
+
+            // Act
+            _errorLogger.Log("a");
+
+            Assert.That(id, Is.Not.EqualTo(Guid.Empty));
+        }
     }
 }
