@@ -9,9 +9,7 @@ namespace Learning_Unit_tests.Mocking
         [Test]
         public void ReadVideoTitle_EmptyFile_ReturnError()
         { 
-            var service = new VideoService();
-            // FileReader = propriedade da class VideoService
-            service.FileReader = new FakeFileReader();
+            var service = new VideoService(new FakeFileReader());
 
             var result = service.ReadVideoTitle();
 
