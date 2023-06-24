@@ -103,3 +103,13 @@ C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\obj\Deb
 C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\obj\Debug\net7.0\Learning_Unit_tests.pdb
 C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\obj\Debug\net7.0\Learning_Unit_tests.genruntimeconfig.cache
 C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\obj\Debug\net7.0\ref\Learning_Unit_tests.dll
+C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\MEREO\C#\Testes Unitários em C#\TestesUnitários\Learning_Unit_tests\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
